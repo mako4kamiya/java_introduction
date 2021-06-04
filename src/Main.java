@@ -52,6 +52,7 @@ public class Main {
         // sh.land();
         // sh.attack(m1);
         // sh.run();
-        // pm.attack(h);
+        pm.attack(h);
+        pm.poisonAttack(h);
 	}
 }
