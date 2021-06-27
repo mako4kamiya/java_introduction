@@ -1,3 +1,4 @@
+package main;
 public class Item {
     String name;
     int price;

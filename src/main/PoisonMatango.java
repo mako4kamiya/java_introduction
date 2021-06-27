@@ -1,3 +1,4 @@
+package main;
 public class PoisonMatango extends Matango {
     int mp = 5;
     public void poisonAttack(Hero h) {

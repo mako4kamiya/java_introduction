@@ -1,7 +1,8 @@
+package main;
 public class Main {
 	public static void main(String[] args) {
         // 武器生成
-        Wepon we = new Wepon();
+        // Wepon we = new Wepon();
         // スーパーヒーローの生成
         SuperHero sh = new SuperHero("スーパーミナト");
         // 勇者の生成
