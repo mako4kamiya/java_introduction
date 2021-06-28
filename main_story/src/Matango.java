@@ -1,6 +1,5 @@
-package main;
 public class Matango {
-	int hp = 50;
+    int hp = 50;
 	char suffix;
 	
 	public Matango(char suffix){
@@ -12,4 +11,5 @@ public class Matango {
 		System.out.println("10‚Ìƒ_ƒ[ƒW");
 		h.hp -= 10;	
 	}
+
 }

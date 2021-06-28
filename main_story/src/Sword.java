@@ -1,4 +1,3 @@
-package main;
 public class Sword {
     String name;
     int damage;
@@ -12,4 +11,5 @@ public class Sword {
     public Sword() {
         this("–Ø‚ÌŒ•", 5);
     }
+
 }
